@@ -4,7 +4,7 @@ import os
 import shutil
 from diffusers import StableDiffusionPipeline
 
-
+#model_id = "stabilityai/stable-diffusion-2-1"
 model_id = "nitrosocke/Ghibli-Diffusion"
 MODEL_CACHE = "diffusers-cache"
 if os.path.exists(MODEL_CACHE):
