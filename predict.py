@@ -10,7 +10,8 @@ from diffusers import (
     StableDiffusionPipeline,
 )
 
-MODEL_ID = "stabilityai/stable-diffusion-2-1"
+#MODEL_ID = "stabilityai/stable-diffusion-2-1"
+MODEL_ID = "nitrosocke/Ghibli-Diffusion"
 MODEL_CACHE = "diffusers-cache"
 
 
